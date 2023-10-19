@@ -1,0 +1,21 @@
+{
+  "name": "crypto-stream",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikever/crypto-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikever/crypto-stream/issues"
+  },
+  "homepage": "https://github.com/mikever/crypto-stream#readme"
+}
